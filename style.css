@@ -135,6 +135,7 @@ section {
     height: 450px;
     border-radius: 20%;
     margin-left: 15px;
+    border: 5px solid teal;
 }
 
 .title {
