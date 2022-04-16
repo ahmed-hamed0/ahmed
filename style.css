@@ -403,8 +403,8 @@ section {
     }
 
     .photo img{
-        width: 250px;
-        height: 250px;
+        width: 300px;
+        height: 300px;
         border-radius: 20%;
         margin: 0;
         border: 5px solid teal;
