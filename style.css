@@ -331,7 +331,7 @@ section {
     .main {
         width:100%;
         min-height: 100vh;
-        display: block;
+        display: flex;
         align-items: center;
         background:url(images/3.jpg) no-repeat; 
         background-size:cover;
