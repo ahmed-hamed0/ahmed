@@ -331,7 +331,7 @@ section {
     .main {
         width:100%;
         min-height: 100vh;
-        display: flex;
+        display: block;
         align-items: center;
         background:url(images/3.jpg) no-repeat; 
         background-size:cover;
@@ -345,8 +345,8 @@ section {
     }
 
     .photo img{
-        width: 350px;
-        height: 350px;
+        width: 290px;
+        height: 290px;
         border-radius: 20%;
         margin: 0;
         border: 5px solid teal;
