@@ -124,17 +124,12 @@ section {
     font-size: 1.7em;
     padding-right: 10px;
 }
-
-.photo{
-    margin-left: 50px;
-
-}
-
+    
 .photo img{
     width: 450px;
     height: 450px;
     border-radius: 20%;
-    margin-left: 15px;
+    margin-left: 50px;
     border: 5px solid teal;
 }
 
@@ -332,6 +327,30 @@ section {
         padding:50px 50px;
 
 }
+    
+    .main {
+        width:100%;
+        min-height: 100vh;
+        display: block;
+        align-items: center;
+        background:url(images/3.jpg) no-repeat; 
+        background-size:cover;
+        background-position: right;
+        background-attachment:fixed;
+    }
+
+    .photo{
+        display: flex;
+        justify-content: center;
+    }
+
+    .photo img{
+        width: 250px;
+        height: 250px;
+        border-radius: 20%;
+        margin: 0;
+        border: 5px solid teal;
+    }
 
 .navigation a{
     font-size: 8px;
@@ -365,6 +384,30 @@ section {
 
     .main-content h3{
         font-size: 1em;
+    }
+    
+    .main {
+        width:100%;
+        min-height: 100vh;
+        display: block;
+        align-items: center;
+        background:url(images/3.jpg) no-repeat; 
+        background-size:cover;
+        background-position: right;
+        background-attachment:fixed;
+    }
+
+    .photo{
+        display: flex;
+        justify-content: center;
+    }
+
+    .photo img{
+        width: 250px;
+        height: 250px;
+        border-radius: 20%;
+        margin: 0;
+        border: 5px solid teal;
     }
 
     .project-card{
