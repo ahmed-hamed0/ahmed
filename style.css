@@ -127,7 +127,7 @@ section {
 
 .photo :hover{
     transform: scale(1.1);
-    transition: 1.3s ease;
+    transition: 2s ease;
 }
     
 .photo img{
