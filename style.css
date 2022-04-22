@@ -130,7 +130,7 @@ section {
     height: 500px;
     border-radius: 20%;
     margin-left: 50px;
-    border: 5px solid teal;
+    border: 5px solid #0099cc;
 }
 
 .title {
@@ -312,7 +312,7 @@ section {
         height: 300px;
         border-radius: 20%;
         margin: 0;
-        border: 5px solid teal;
+        border: 5px solid #0099cc;
     }
 
 }
@@ -357,7 +357,7 @@ section {
         height: 300px;
         border-radius: 20%;
         margin: 0;
-        border: 5px solid teal;
+        border: 5px solid #0099cc;
     }
     
 .navigation a{
@@ -415,7 +415,7 @@ section {
         height: 250px;
         border-radius: 20%;
         margin: 0;
-        border: 5px solid teal;
+        border: 5px solid #0099cc;
     }
 
     .project-card{
