@@ -80,18 +80,34 @@ section {
 }
 
 .linkedin{
-    color: #0066ff;
+    color: #333333;
 }
 
 .facebook{
-    color: #0165E1;
+    color: #333333;
 }
 
 .youtube{
-    color: red;
+    color: #333333;
 }
 
 .github{
+    color: #333333;
+}
+
+.linkedin :hover{
+    color: #0066ff;
+}
+
+.facebook :hover{
+    color: #0165E1;
+}
+
+.youtube :hover{
+    color: red;
+}
+
+.github :hover{
     color: #000016;
 }
 
