@@ -142,7 +142,7 @@ section {
 }
 
 .photo :hover{
-    transform: scale(1.1);
+    transform: scale(1.0);
     transition: 2s ease;
 }
     
@@ -377,10 +377,10 @@ section {
         display: flex;
         justify-content: center;
     }
-
+    
     .photo img{
-        width: 300px;
-        height: 300px;
+        width: 270px;
+        height: 270px;
         border-radius: 20%;
         margin: 0;
         border: 5px solid teal;
