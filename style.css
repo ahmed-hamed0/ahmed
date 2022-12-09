@@ -415,7 +415,8 @@ section {
     }
 
     .navigation a{
-        font-size: 9.8px;
+        font-size: 10px;
+        font-weight: 800;
     }
 
     .main-content h2{
